@@ -3,3 +3,4 @@ streamlit
 jupyterlab
 watchdog
 invoke
+langchain-ollama
